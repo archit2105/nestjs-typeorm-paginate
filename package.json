@@ -2,7 +2,7 @@
   "name": "nestjs-typeorm-paginate",
   "author": {
     "name": "Archit Sharma",
-    "email": "srchitsharma755@gmail.com"
+    "email": "architsharma755@gmail.com"
   },
   "main": "./dist/index.js",
   
